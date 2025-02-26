@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  /* navbar */
+  --color-primary-90: #fafafa;
+  --color-secondary-90: #616161;
+  --color-logo-90: #c5c5c5;
+  --color-login-90: #212121;
+  --color-border-90: #212121;
+  --text-size: 15px;
+
+  /* herosection */
+}
