@@ -5,6 +5,7 @@ import "./App.css";
 import Navbar from "./components/navbar";
 import HeroSection from "./components/heroSection";
 import Steps from "./components/steps";
+import Comment from "./components/comment";
 import Accordion from "./components/questionsaccordion";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       </h1>
       <HeroSection />
       <Steps />
+      <Comment />
       <Accordion />
     </>
   );
